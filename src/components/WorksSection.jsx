@@ -1,6 +1,12 @@
 import React from "react";
 import "./WorksSection.css";
 import projects from "../data/portfolio.json";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faGithub,
+  faWebAwesome,
+} from "@fortawesome/free-brands-svg-icons";
+import { faLink } from "@fortawesome/free-solid-svg-icons";
 
 const Works = () => {
   return (
@@ -29,14 +35,14 @@ const Works = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <i className="fa-solid fa-link"></i>
+                      <FontAwesomeIcon icon={faLink} />
                     </a>
                     <a
                       href={project.github}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <i className="fa-brands fa-github"></i>
+                      <FontAwesomeIcon icon={faGithub} />
                     </a>
                   </div>
                 </div>
