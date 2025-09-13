@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import WorksSection from "../components/WorksSection";
+import ContactSection from "../components/ContactSection";
 
 function Contact() {
   useEffect(() => {
@@ -7,7 +7,7 @@ function Contact() {
   }, []);
 
   return (
-    <WorksSection />
+    <ContactSection />
   );
 }
 

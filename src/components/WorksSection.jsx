@@ -4,7 +4,6 @@ import projects from "../data/portfolio.json";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faGithub,
-  faWebAwesome,
 } from "@fortawesome/free-brands-svg-icons";
 import { faLink } from "@fortawesome/free-solid-svg-icons";
 

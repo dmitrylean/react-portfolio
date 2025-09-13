@@ -28,14 +28,21 @@ nav a {
   font-size: 0.95rem;
 }
 
-.nav ul a:hover {
+.nav a:hover {
   color: #1da1f2;
 }
 
 .btn-outline {
-  border: 1px solid #fff;
+  color: white;
+  background: blue;
   padding: 0.5rem 1rem;
   border-radius: 6px;
+}
+
+.btn-outline:hover {
+  opacity: 0.8;
+  color: black;
+  background: white;
 }
 
  /* Burger */
