@@ -9,8 +9,8 @@ const NavBar = () => {
         <ul>
           <li><a href="/">Home</a></li>
           <li><a href="/works">Works</a></li>
-          <li><a href="#">Service</a></li>
-          <li><a href="#" class="btn-outline">Contact</a></li>
+          <li><a href="/service">Service</a></li>
+          <li><a href="/contact" class="btn-outline">Contact</a></li>
         </ul>
       </nav>
     </header>

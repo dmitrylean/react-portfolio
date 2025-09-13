@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import WorksSection from "../components/WorksSection";
 
-function Works() {
+function Contact() {
   useEffect(() => {
     document.title = "Script2Call | Менеджер скриптов";
   }, []);
@@ -11,4 +11,4 @@ function Works() {
   );
 }
 
-export default Works;
+export default Contact;
