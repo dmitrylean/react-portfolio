@@ -10,7 +10,6 @@ const NavBar = () => {
           <li><a href="/">Home</a></li>
           <li><a href="/works">Works</a></li>
           <li><a href="#">Service</a></li>
-          <li><a href="#">Testimonial</a></li>
           <li><a href="#" class="btn-outline">Contact</a></li>
         </ul>
       </nav>

@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 // Components
 import NavBar from './components/NavBar';
+import Footer from './components/Footer';
 
 // Pages
 import Home from "./pages/Home";
@@ -26,6 +27,7 @@ function App() {
         {/* <Route path="/service" element={<Service />} />
          <Route path="/contact" element={<Contact />} /> */}
       </Routes>
+      <Footer />
     </Router>
   );
 }
