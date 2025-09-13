@@ -3,7 +3,7 @@ import WorksSection from "../components/WorksSection";
 
 function Works() {
   useEffect(() => {
-    document.title = "Script2Call | Менеджер скриптов";
+    document.title = "Dmitry Lean | Works";
   }, []);
 
   return (
