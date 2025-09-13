@@ -1,7 +1,7 @@
 [
   {
     "category": "astro",
-    "img": "/assets/img/portfolio/astroblog.jpg",
+    "img": "/img/astroblog.jpg",
     "title": "Astro Blog",
     "detailsTitle": "Astro Theme",
     "description": "Blog template on Astro.",
@@ -11,7 +11,7 @@
   },
   {
     "category": "astro",
-    "img": "/assets/img/portfolio/astroblogportfolio.jpg",
+    "img": "/img/astroblogportfolio.jpg",
     "title": "Astro Blog + Portfolio",
     "detailsTitle": "Astro Theme",
     "description": "Portfolio template with blog feature on Astro",
@@ -21,7 +21,7 @@
   },
   {
     "category": "react",
-    "img": "/assets/img/portfolio/strikethehub.jpg",
+    "img": "/img/strikethehub.jpg",
     "title": "Strike The Hub",
     "detailsTitle": "React project of a gaming portal",
     "description": "A video game project that I plan to develop and implement new features into.",
@@ -31,7 +31,7 @@
   },
   {
     "category": "react",
-    "img": "/assets/img/portfolio/musicartist.jpg",
+    "img": "/img/musicartist.jpg",
     "title": "Music Artist",
     "detailsTitle": "React template for creative professions",
     "description": "The template can be used by musicians, artists, designers, etc.",
@@ -41,7 +41,7 @@
   },
   {
     "category": "react",
-    "img": "/assets/img/portfolio/luxurycar.jpg",
+    "img": "/img/luxurycar.jpg",
     "title": "Luxury Detail",
     "detailsTitle": "React version of a website for a luxury detailing service",
     "description": "Translated the design from Figma to production code. The website is built on React, using a component approach and animations for a smooth user experience.",

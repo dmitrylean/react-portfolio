@@ -16,12 +16,11 @@
 }
 
 .project-card {
-  background: rgb(247, 244, 244);
+  background: #1a1a1a;
   border-radius: 12px;
   overflow: hidden;
   box-shadow: 0 4px 15px rgba(0,0,0,0.5);
   transition: transform 0.3s ease;
-  height: auto;
 }
 
 .project-card:hover {
@@ -45,7 +44,6 @@
 
 .project-content p {
   font-size: 14px;
-  color: black;
   margin-bottom: 15px;
 }
 
@@ -55,7 +53,7 @@
 
 .tags span {
   display: inline-block;
-  background: red;
+  background: blue;
   color: white;
   font-size: 12px;
   padding: 5px 10px;

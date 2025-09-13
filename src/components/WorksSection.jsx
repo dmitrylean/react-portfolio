@@ -1,6 +1,6 @@
 import React from "react";
 import "./WorksSection.css";
-import projects from "../../data/portfolio.json";
+import projects from "../data/portfolio.json";
 
 const Works = () => {
   return (
