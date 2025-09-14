@@ -68,3 +68,10 @@ textarea {
   color: black;
   background: white;
 }
+
+@media (max-width: 768px) {
+  .contact-grid {
+    grid-template-columns: 1fr;
+    height: auto;
+  }
+}

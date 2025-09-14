@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import WorksSection from "../components/WorksSection";
+import ServiceSection from "../components/ServiceSection";
 
 function Service() {
   useEffect(() => {
@@ -7,7 +7,7 @@ function Service() {
   }, []);
 
   return (
-    <WorksSection />
+    <ServiceSection />
   );
 }
 

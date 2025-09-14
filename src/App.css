@@ -52,6 +52,7 @@
       align-items: flex-start;
       justify-content: center;
       text-align: center;
+      height: auto;
     }
 
     .section-header {

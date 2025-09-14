@@ -8,6 +8,8 @@
 .logo {
   font-size: 1rem;
   font-weight: 600;
+  color: white;
+  text-decoration: none;
 }
 
 .logo span {
