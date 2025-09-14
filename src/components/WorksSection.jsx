@@ -34,14 +34,14 @@ const Works = () => {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <FontAwesomeIcon icon={faLink} />
+                      <FontAwesomeIcon icon={faLink} className="icon" />
                     </a>
                     <a
                       href={project.github}
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <FontAwesomeIcon icon={faGithub} />
+                      <FontAwesomeIcon icon={faGithub} className="icon" />
                     </a>
                   </div>
                 </div>

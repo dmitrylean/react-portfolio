@@ -119,26 +119,41 @@ nav a {
     z-index: 1101;
   }
 
-  .nav {
+.nav {
+  display: flex;
+  position: fixed;
+  top: 0;
+  right: -250px;  
+  height: 100%;
+  width: 250px;
+  background: black;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 60px 20px;
+  transition: right 0.3s ease;
+  gap: 20px;
+  z-index: 1000;
+}
+
+.nav ul {
     display: flex;
-    position: fixed;
-    top: 0;
-    right: -250px;
-    height: 100%;
-    width: 250px;
-    background: white;
     flex-direction: column;
-    align-items: flex-start;
-    padding: 60px 20px;
-    transition: right 0.3s ease;
-    gap: 20px;
-    z-index: 1000;
+    gap: 1.5rem;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .nav li {
+    width: 100%;
   }
 
   .nav a {
     font-size: 18px;
     padding: 10px 0;
     width: 100%;
+    color: white;
+    display: block; 
   }
 
   .nav.active {

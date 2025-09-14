@@ -66,14 +66,15 @@
   gap: 20px;
 }
 
-.links a {
-  color: black;
+.icon {
+  color: white;
   font-size: 25px;
   text-decoration: none;
 }
 
-.links a:hover {
-  color: red;
+.icon:hover {
+  color: blue;
+  transform: scale(1.2);
 }
 
 .project-meta {
