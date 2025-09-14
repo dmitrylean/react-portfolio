@@ -44,5 +44,10 @@
 @media (max-width: 768px) {
   .services-grid {
     grid-template-columns: 1fr;
+    padding: 5px 10px;
+  }
+
+  .services {
+    height: auto;
   }
 }
