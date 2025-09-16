@@ -61,7 +61,7 @@ const NavBar = () => {
         <nav className={`nav ${isOpen ? "active" : ""}`}>
           <ul>
             <li><Link to="/works">Works</Link></li>
-            <li><Link to="/service">Service</Link></li>
+            {/* <li><Link to="/service">Service</Link></li> */}
             <li><Link to="/contact" className="btn-outline">Contact</Link></li>
           </ul>
         </nav>
