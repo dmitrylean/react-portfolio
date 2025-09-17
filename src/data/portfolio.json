@@ -102,5 +102,14 @@
     "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
     "stack": "HTML, CSS, Wordpress",
     "demo": "https://mountainwalking.netlify.app"
+  },
+  {
+    "category": "wordpress",
+    "img": "/img/blitzestate.jpg",
+    "title": "Blitz Estate",
+    "detailsTitle": "Real Estate agency landing",
+    "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
+    "stack": "HTML, CSS, Wordpress",
+    "demo": "https://blitzestate-landing.netlify.app"
   }
 ]
