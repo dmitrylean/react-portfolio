@@ -35,20 +35,23 @@ const ContactSection = () => {
           </div>
 
           <div className="contact-info">
-            <h2>
-              Info
-            </h2>
-
-            <p>
-              <strong>Email:</strong> crashtheroutines@gmail.com
-            </p>
-
-            <h3>Availability</h3>
-            <p>
-              If I miss your message or call, I'll get back to you as soon as
-              possible—usually within 24 hours. I truly value your time and
-              interest, and I'll make sure to respond thoughtfully and promptly.
-            </p>
+            <div className="info-title">
+              <h2>
+                Info
+              </h2>
+            </div>
+            <div className="info-text">
+              <p>
+                <strong className="red-text">Email:</strong> crashtheroutines@gmail.com
+              </p>
+            </div>
+            <div className="info-text">
+              <p>
+                If I miss your message or call, I'll get back to you as soon as
+                possible—usually within 24 hours. I truly value your time and
+                interest, and I'll make sure to respond thoughtfully and promptly.
+              </p>
+            </div>
           </div>
         </div>
       </div>
