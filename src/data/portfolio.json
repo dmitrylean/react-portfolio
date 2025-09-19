@@ -25,7 +25,7 @@
     "title": "Strike The Hub",
     "detailsTitle": "React Gaming Portal",
     "description": "A gaming community portal built with React, designed to grow with new features and updates.",
-    "stack": "React, Tailwind",
+    "stack": "React",
     "demo": "https://strikethehub.netlify.app",
     "github": "https://github.com/dmitrylean/strikethehub"
   },
@@ -35,7 +35,7 @@
     "title": "Delote Beauty",
     "detailsTitle": "Beauty Salon WordPress Theme",
     "description": "A modern WordPress theme designed for beauty salons and wellness studios.",
-    "stack": "Wordpress, PHP",
+    "stack": "Wordpress",
     "demo": "http://crashtheroutine.site/delote-beauty"
   },
   {
@@ -54,7 +54,7 @@
     "title": "AutoCare Landing",
     "detailsTitle": "Car Service Landing Page",
     "description": "A sleek landing page for auto repair services, built with HTML/CSS and adaptable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://carservice-web.netlify.app/"
   },
   {
@@ -63,7 +63,7 @@
     "title": "Dolina Hotel",
     "detailsTitle": "Hotel Landing Page",
     "description": "A professional hotel landing page designed with HTML/CSS and easily transferable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://dolinahotel.netlify.app/"
   },
   {
@@ -72,7 +72,7 @@
     "title": "Luxury Car Detailing",
     "detailsTitle": "Luxury Auto Salon Landing Page",
     "description": "A premium landing page for luxury car detailing services, built with HTML/CSS and React, adaptable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "React",
     "demo": "https://luxurycar-reactlanding.netlify.app/",
     "github": "https://github.com/dmitrylean/react-landing-luxurycar"
   },
@@ -82,7 +82,7 @@
     "title": "Softerio Tech",
     "detailsTitle": "Software Studio Landing Page",
     "description": "A modern landing page for software development studios, built with HTML/CSS and ready for WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://softerio-tech.netlify.app/"
   },
   {
@@ -91,7 +91,7 @@
     "title": "Ready One Cars",
     "detailsTitle": "Sports Car Rental Landing Page",
     "description": "A dynamic landing page for sports car rental services, designed in HTML/CSS and adaptable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://sportcarrent.netlify.app"
   },
   {
@@ -100,7 +100,7 @@
     "title": "RumTibet Adventures",
     "detailsTitle": "Mountain Hiking Tours Landing Page",
     "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://mountainwalking.netlify.app"
   },
   {
@@ -109,7 +109,7 @@
     "title": "Blitz Estate",
     "detailsTitle": "Real Estate agency landing",
     "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
-    "stack": "HTML, CSS, Wordpress",
+    "stack": "Wordpress",
     "demo": "https://blitzestate-landing.netlify.app"
   }
 ]
