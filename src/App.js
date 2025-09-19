@@ -14,6 +14,10 @@ import Contact from './pages/Contact';
 import './App.css';
 
 function App() {
+  useEffect(() => {
+      document.title = "Dmitry Lean | Home";
+  }, []);
+  
   return (
     <Router>
       <NavBar />
