@@ -1,6 +1,5 @@
 [
   {
-    "category": "astro",
     "img": "/img/astroblog.jpg",
     "title": "Astro Modern Blog",
     "detailsTitle": "Astro Blog Theme",
@@ -8,10 +7,9 @@
     "stack": "Astro",
     "demo": "https://astro-blogdev.netlify.app",
     "github": "https://github.com/dmitrylean/astro-blog",
-    "icons": ["/svg/astro-svgrepo-com.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/astro-svgrepo-com.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "astro",
     "img": "/img/astroblogportfolio.jpg",
     "title": "Astro Portfolio & Blog",
     "detailsTitle": "Astro Portfolio Theme",
@@ -19,10 +17,9 @@
     "stack": "Astro",
     "demo": "https://astroblogportfolio.netlify.app",
     "github": "https://github.com/dmitrylean/astroblogportfolio",
-    "icons": ["/svg/astro-svgrepo-com.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/astro-svgrepo-com.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "react",
     "img": "/img/strikethehub.jpg",
     "title": "Strike The Hub",
     "detailsTitle": "React Gaming Portal",
@@ -33,17 +30,15 @@
     "icons": ["/svg/react.svg", "/svg/tailwind.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/delotebeauty.jpg",
     "title": "Delote Beauty",
     "detailsTitle": "Beauty Salon WordPress Theme",
     "description": "A modern WordPress theme designed for beauty salons and wellness studios.",
     "stack": "Wordpress",
     "demo": "http://crashtheroutine.site/delote-beauty",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "react",
     "img": "/img/musicartist.jpg",
     "title": "Creative Artist Template",
     "detailsTitle": "React Template for Creatives",
@@ -54,27 +49,24 @@
     "icons": ["/svg/react.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/carservice.jpg",
     "title": "AutoCare Landing",
     "detailsTitle": "Car Service Landing Page",
     "description": "A sleek landing page for auto repair services, built with HTML/CSS and adaptable to WordPress.",
     "stack": "Wordpress",
     "demo": "https://carservice-web.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/hoteldolina.jpg",
     "title": "Dolina Hotel",
     "detailsTitle": "Hotel Landing Page",
     "description": "A professional hotel landing page designed with HTML/CSS and easily transferable to WordPress.",
     "stack": "Wordpress",
     "demo": "https://dolinahotel.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "react",
     "img": "/img/luxurycar.jpg",
     "title": "Luxury Car Detailing",
     "detailsTitle": "Luxury Auto Salon Landing Page",
@@ -85,43 +77,39 @@
     "icons": ["/svg/react.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/softerio-tech.jpg",
     "title": "Softerio Tech",
     "detailsTitle": "Software Studio Landing Page",
     "description": "A modern landing page for software development studios, built with HTML/CSS and ready for WordPress.",
     "stack": "Wordpress",
     "demo": "https://softerio-tech.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/sportcarrent.jpg",
     "title": "Ready One Cars",
     "detailsTitle": "Sports Car Rental Landing Page",
     "description": "A dynamic landing page for sports car rental services, designed in HTML/CSS and adaptable to WordPress.",
     "stack": "Wordpress",
     "demo": "https://sportcarrent.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/mountainwalking.png",
     "title": "RumTibet Adventures",
     "detailsTitle": "Mountain Hiking Tours Landing Page",
     "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
     "stack": "Wordpress",
     "demo": "https://mountainwalking.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "category": "wordpress",
     "img": "/img/blitzestate.jpg",
     "title": "Blitz Estate",
     "detailsTitle": "Real Estate agency landing",
     "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
     "stack": "Wordpress",
     "demo": "https://blitzestate-landing.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg"]
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   }
 ]

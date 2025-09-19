@@ -10,7 +10,9 @@ const filters = [
   { label: "All", value: "all" },
   { label: "Wordpress", value: "Wordpress" },
   { label: "React", value: "React" },
-  { label: "Astro", value: "Astro" }
+  { label: "Astro", value: "Astro" },
+  { label: "Mobile", value: "Mobile" },
+  { label: "Python", value: "Python" }
 ];
 
 export default function Works() {
