@@ -17,6 +17,7 @@ export default function Works() {
   const [activeFilter, setActiveFilter] = useState("all");
   const projectsRefs = useRef([]);
 
+  // filter projects by stack
   const filteredProjects =
     activeFilter === "all"
       ? projectData
@@ -57,30 +58,50 @@ export default function Works() {
                 <div className="project-image">
                   <img src={project.img} alt={project.title} />
                 </div>
+
                 <div className="project-content">
                   <h3>{project.title}</h3>
                   <p>{project.description}</p>
+
                   <div className="project-meta">
+                    {/* Tags */}
                     <div className="tags">
                       {project.stack.split(",").map((tag, i) => (
                         <span key={i}>{tag.trim()}</span>
                       ))}
                     </div>
+
+                    {/* Tech icons */}
+                    <div className="tech-icons">
+                      {(Array.isArray(project.icons) ? project.icons : [project.icons]).map(
+                        (icon, i) => (
+                          <div className="tech-icon" key={i}>
+                            <img src={icon} alt={`icon-${i}`} />
+                          </div>
+                        )
+                      )}
+                    </div>
+
+                    {/* Links */}
                     <div className="links">
-                      <a
-                        href={project.demo}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <FontAwesomeIcon icon={faLink} className="icon" />
-                      </a>
-                      <a
-                        href={project.github}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        <FontAwesomeIcon icon={faGithub} className="icon" />
-                      </a>
+                      {project.demo && (
+                        <a
+                          href={project.demo}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <FontAwesomeIcon icon={faLink} className="icon" />
+                        </a>
+                      )}
+                      {project.github && (
+                        <a
+                          href={project.github}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          <FontAwesomeIcon icon={faGithub} className="icon" />
+                        </a>
+                      )}
                     </div>
                   </div>
                 </div>

@@ -49,6 +49,7 @@
 
 .tags {
   margin-bottom: 15px;
+  display: none;
 }
 
 .tags span {
@@ -83,6 +84,16 @@
   justify-content: space-between;
 }
 
+.tech-icons {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.tech-icon img {
+  height: 25px;
+}
+
 /* Filter */
 
 .filters {
@@ -105,13 +116,13 @@
 }
 
 .filter-btn:hover {
-  background: blue;
+  background: rgb(95, 98, 235);
   color: #fff;
 }
 
 .filter-active {
   padding: 0.5rem 1rem;
-  background: red;
+  background: blue;
   color: #fff;
   border: 2px solid white;
   border-radius: 25px;
