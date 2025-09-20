@@ -47,5 +47,15 @@
     "demo": "https://html-projects-template.netlify.app",
     "github": "https://github.com/dmitrylean/html-projects",
     "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
+  },
+    {
+    "img": "/img/oldportfolioastro.jpg",
+    "title": "Astro Portfolio + Blog",
+    "detailsTitle": "Old portfolio",
+    "description": "My old portfolio blog on Astro with React components included.",
+    "stack": "Astro",
+    "demo": "https://old-astro-portfolio.netlify.app",
+    "github": "https://github.com/dmitrylean/old-astro-portfolio",
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   }
 ]
