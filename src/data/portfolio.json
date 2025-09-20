@@ -57,5 +57,15 @@
     "demo": "https://luxurycar-reactlanding.netlify.app/",
     "github": "https://github.com/dmitrylean/react-landing-luxurycar",
     "icons": ["/svg/react.svg"]
+  },
+   {
+    "img": "/img/html-projects.jpg",
+    "title": "HTML Projects",
+    "detailsTitle": "HTML to Wordpress",
+    "description": "This repository contains a clean and responsive front-end layout (HTML, CSS, JS) designed to be easily integrated into WordPress.",
+    "stack": "Wordpress",
+    "demo": "https://html-projects-template.netlify.app",
+    "github": "https://github.com/dmitrylean/html-projects",
+    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   }
 ]
