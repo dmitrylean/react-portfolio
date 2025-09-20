@@ -49,24 +49,6 @@
     "icons": ["/svg/react.svg"]
   },
   {
-    "img": "/img/carservice.jpg",
-    "title": "AutoCare Landing",
-    "detailsTitle": "Car Service Landing Page",
-    "description": "A sleek landing page for auto repair services, built with HTML/CSS and adaptable to WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://carservice-web.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
-  },
-  {
-    "img": "/img/hoteldolina.jpg",
-    "title": "Dolina Hotel",
-    "detailsTitle": "Hotel Landing Page",
-    "description": "A professional hotel landing page designed with HTML/CSS and easily transferable to WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://dolinahotel.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
-  },
-  {
     "img": "/img/luxurycar.jpg",
     "title": "Luxury Car Detailing",
     "detailsTitle": "Luxury Auto Salon Landing Page",
@@ -75,41 +57,5 @@
     "demo": "https://luxurycar-reactlanding.netlify.app/",
     "github": "https://github.com/dmitrylean/react-landing-luxurycar",
     "icons": ["/svg/react.svg"]
-  },
-  {
-    "img": "/img/softerio-tech.jpg",
-    "title": "Softerio Tech",
-    "detailsTitle": "Software Studio Landing Page",
-    "description": "A modern landing page for software development studios, built with HTML/CSS and ready for WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://softerio-tech.netlify.app/",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
-  },
-  {
-    "img": "/img/sportcarrent.jpg",
-    "title": "Ready One Cars",
-    "detailsTitle": "Sports Car Rental Landing Page",
-    "description": "A dynamic landing page for sports car rental services, designed in HTML/CSS and adaptable to WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://sportcarrent.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
-  },
-  {
-    "img": "/img/mountainwalking.png",
-    "title": "RumTibet Adventures",
-    "detailsTitle": "Mountain Hiking Tours Landing Page",
-    "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://mountainwalking.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
-  },
-  {
-    "img": "/img/blitzestate.jpg",
-    "title": "Blitz Estate",
-    "detailsTitle": "Real Estate agency landing",
-    "description": "A travel landing page for guided mountain hikes, created with HTML/CSS and adaptable to WordPress.",
-    "stack": "Wordpress",
-    "demo": "https://blitzestate-landing.netlify.app",
-    "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   }
 ]
