@@ -38,16 +38,6 @@
     "github": "https://github.com/dmitrylean/musicartist-reactapp",
     "icons": ["/svg/react.svg"]
   },
-  {
-    "img": "/img/luxurycar.jpg",
-    "title": "Luxury Car Detailing",
-    "detailsTitle": "Luxury Auto Salon Landing Page",
-    "description": "A premium landing page for luxury car detailing services, built with HTML/CSS and React, adaptable to WordPress.",
-    "stack": "React",
-    "demo": "https://luxurycar-reactlanding.netlify.app/",
-    "github": "https://github.com/dmitrylean/react-landing-luxurycar",
-    "icons": ["/svg/react.svg"]
-  },
    {
     "img": "/img/html-projects.jpg",
     "title": "HTML Projects",
