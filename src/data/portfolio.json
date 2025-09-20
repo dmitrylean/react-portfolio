@@ -20,22 +20,12 @@
     "icons": ["/svg/astro-svgrepo-com.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
-    "img": "/img/strikethehub.jpg",
-    "title": "Strike The Hub",
-    "detailsTitle": "React Gaming Portal",
-    "description": "A gaming community portal built with React, designed to grow with new features and updates.",
-    "stack": "React",
-    "demo": "https://strikethehub.netlify.app",
-    "github": "https://github.com/dmitrylean/strikethehub",
-    "icons": ["/svg/react.svg", "/svg/tailwind.svg"]
-  },
-  {
     "img": "/img/delotebeauty.jpg",
     "title": "Delote Beauty",
     "detailsTitle": "Beauty Salon WordPress Theme",
     "description": "A modern WordPress theme designed for beauty salons and wellness studios.",
     "stack": "Wordpress",
-    "demo": "http://crashtheroutine.site/delote-beauty",
+    "github": "https://github.com/dmitrylean/beauty-salon-wp",
     "icons": ["/svg/wordpress.svg", "/svg/html5.svg", "/svg/css3.svg", "/svg/js.svg"]
   },
   {
